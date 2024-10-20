@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "portafolio HTML AND CSS only",
+			"path": ".."
+		},
+		{
+			"name": "imagenes",
+			"path": "../../css/imagenes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portafolio HTML AND CSS only"
+	}
+}

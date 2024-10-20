@@ -1,0 +1,25 @@
+body{
+    background-color: #1a1a1a;
+}
+
+section{
+    width: 90%;
+    max-width: 1600px;
+    height: 640px;
+    border: 1px solid #ffff;
+    margin: 50px auto;
+}
+#fila{
+    width: 90%;
+    display: flex;
+}
+#foto{
+    width: 35%;
+}
+#info{
+    width: 65%;
+}
+#info h2{
+    color:  #00f29e;
+    
+}
